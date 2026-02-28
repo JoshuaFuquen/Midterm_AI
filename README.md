@@ -9,10 +9,10 @@
 Results(folder): This is where the results are storaged.  
 .DS_Store: Libraries.  
 .gitignore: Gitignore of .venv folder.  
-Midterm_Report_FinalVersion.pdf: Report of the proyect in pdf.  
+Midterm_Report_FinalVersion.pdf: Report of the project in pdf.  
 README.md: Readme to know more about this git repository.  
 requirements.txt: Code for the program.  
-train_mnist_cnn.py: Program for deep learning proyect.  
+train_mnist_cnn.py: Program for deep learning project.  
 
 ## Project Overview
 This project trains a **deep learning** model to recognize handwritten digits.  
