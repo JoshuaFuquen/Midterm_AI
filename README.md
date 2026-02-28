@@ -23,7 +23,7 @@ These steps are included so the instructor can reproduce the run and see termina
 
 1) Open a terminal and go to the repository folder
 ```bash
-cd /Users/joshu/Josh/Python/AI_100
+cd "Your specific folder"
 ```
 
 2) Activate the virtual environment
