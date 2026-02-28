@@ -1,0 +1,4 @@
+Test accuracy: 0.9909
+Test loss: 0.0312
+Last epoch train_acc: 0.9930
+Last epoch val_acc: 0.9893
