@@ -5,6 +5,15 @@
 - Chris Tham
 - Annie Wang
 
+## Files in github
+Results(folder): This is where the results are storaged
+.DS_Store: Libraries
+.gitignore: Gitignore of .venv folder
+Midterm_Report_FinalVersion.pdf: Report of the proyect in pdf
+README.md: Readme to know more about this git repository 
+requirements.txt: Code for the program
+train_mnist_cnn.py: Program for deep learning proyect
+
 ## Project Overview
 This project trains a **deep learning** model to recognize handwritten digits.  
 Given a 28x28 grayscale image, the model predicts a label from **0 to 9**.
